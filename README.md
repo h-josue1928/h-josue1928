@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/h-josue1928/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/h-josue1928/Ticket-Lifecycle-Examples)
 - <b>Active Directory</b>
-   - [Deploying Active Directory and Creating Users](https://github.com/h-josue1928/azure-network-protocols)
+   - [Deploying Active Directory and Creating Users](https://github.com/h-josue1928/AD-creating-users)
    - [Network file Shares and Permissons](https://github.com/h-josue1928/azure-network-protocols)
 
 
