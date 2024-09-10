@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/h-josue1928/Ticket-Lifecycle-Examples)
 
 - <b>Active Directory</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/h-josue1928/AD-networkfileshares-permissions)
+  - [Preparing AD Infrastructure in Azure](https://github.com/h-josue1928/Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/h-josue1928/AD-creating-users)
   - [Creating Users with PowerShell](https://github.com/h-josue1928/AD-networkfileshares-permissions)
   - [Group Policy and Managing Accounts](https://github.com/h-josue1928/AD-networkfileshares-permissions)
