@@ -11,7 +11,7 @@
   - [Preparing AD Infrastructure in Azure](https://github.com/h-josue1928/Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/h-josue1928/Deploying-Active-Directory)
   - [Creating Users with PowerShell](https://github.com/h-josue1928/Creating-Users-with-PowerShell)
-  - [Group Policy and Managing Accounts](https://github.com/h-josue1928/AD-networkfileshares-permissions)
+  - [Group Policy and Managing Accounts](https://github.com/h-josue1928/Group-Policy-and-Managing-Accounts)
 
 - <b>Network File Shares and Permissions</b>
 - [File Shares and Permissions](https://github.com/h-josue1928/AD-networkfileshares-permissions)
