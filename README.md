@@ -25,11 +25,11 @@
 
 
 
-   - [Network file Shares and Permissons](https://github.com/h-josue1928/AD-networkfileshares-permissions)
+   
 
 
 
 
 
-[
+
 [linkedin]: https://linkedin.com/in/
