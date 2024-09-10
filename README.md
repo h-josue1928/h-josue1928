@@ -14,7 +14,7 @@
   - [Group Policy and Managing Accounts](https://github.com/h-josue1928/Group-Policy-and-Managing-Accounts)
 
 - <b>Network File Shares and Permissions</b>
-- [File Shares and Permissions](https://github.com/h-josue1928/File-Shares-and-Permissions)
+  - [File Shares and Permissions](https://github.com/h-josue1928/File-Shares-and-Permissions)
 
     
 
