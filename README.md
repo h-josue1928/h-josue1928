@@ -9,8 +9,8 @@
 
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/h-josue1928/Preparing-AD-Infrastructure-in-Azure)
-  - [Deploying Active Directory](https://github.com/h-josue1928/AD-creating-users)
-  - [Creating Users with PowerShell](https://github.com/h-josue1928/AD-networkfileshares-permissions)
+  - [Deploying Active Directory](https://github.com/h-josue1928/Deploying-Active-Directory)
+  - [Creating Users with PowerShell](https://github.com/h-josue1928/Creating-Users-with-PowerShell)
   - [Group Policy and Managing Accounts](https://github.com/h-josue1928/AD-networkfileshares-permissions)
 
 - <b>Network File Shares and Permissions</b>
